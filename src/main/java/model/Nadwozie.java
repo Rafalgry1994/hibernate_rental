@@ -1,4 +1,4 @@
-package Samochod.Model;
+package model;
 
 public enum Nadwozie {
     SEDAN,
